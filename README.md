@@ -1,6 +1,6 @@
 - 👋 Hola, soy @J1nsuke007
 - 👀 me gusta el anime y me gusta la programacion
-- 🌱 quisiera aprender mucho sobre SQL
+- 🌱 quisiera aprender mucho sobre JS y node.js
 - espero que ustedes me ayuden a avanzar y espero en poder ayudarlos
 
 <!---
