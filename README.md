@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm practicing Backend Developer web
-My target and Dream is make APIs clean and scalables
+*My purpose is make APIs clean and scalables.
+*To learn enough security between client and server.
 
 # 💻 Actual Stack:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white).
