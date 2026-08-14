@@ -3,9 +3,9 @@ I'm learning to be Backend Developer software
 <br>
 My purpose is make APIs clean and scalables.
 <br>
-*To learn enough security between applications client and server.
+To learn enough security between applications client and server.
 <br>
-*To have enough knowledge in SQL
+To have enough knowledge in SQL
 <br>
 
 
