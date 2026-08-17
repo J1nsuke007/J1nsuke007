@@ -10,7 +10,7 @@ To have enough knowledge in SQL
 
 
 # 💻 Future Stack To Learn:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,graphql,postgres,postman,redis,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,graphql,postgres,postman,redis,visualstudio,azure)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
