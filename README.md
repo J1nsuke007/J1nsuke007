@@ -10,7 +10,7 @@ To have enough knowledge in SQL
 I'm interesting in projects of kind of Systems of gestion, inventory, reservation, control, administration of X domain.
 
 # 💻 Future Stack To Learn:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,graphql,postgres,postman,redis,visualstudio,azure,swagger)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,graphql,postgres,postman,redis,visualstudio,azure)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=J1nsuke007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
