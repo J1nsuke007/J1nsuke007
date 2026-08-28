@@ -1,11 +1,11 @@
 # 💫 About Me:
-I'm learning to be Backend Developer software
+I'm learning to be software engineer in the environment of .NET
 <br>
-My purpose is make APIs clean and scalables.
+My main object is to make Software scalable and clean.
 <br>
-To learn enough security between applications client and server.
+To learn enough security between applications client and server, software apps.
 <br>
-To have enough knowledge in SQL
+To have enough knowledge in SQL.
 <br>
 I'm interesting in projects of kind of Systems of gestion, inventory, reservation, control, administration of X domain.
 
